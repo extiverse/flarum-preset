@@ -1,0 +1,17 @@
+{
+    "name": "extiverse/flarum-preset",
+    "description": "Build a support, ticketing system with Flarum",
+    "keywords": [
+        "ticketing",
+        "support",
+        "helpdesk",
+        "flarum",
+        "flarum-bundle",
+        "extiverse"
+    ],
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^v1.4.1",
+        "v17development/flarum-support": "*"
+    }
+}
