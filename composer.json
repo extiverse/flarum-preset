@@ -1,0 +1,19 @@
+{
+    "name": "extiverse/flarum-preset",
+    "description": "Build a private, paid access membership community with Flarum",
+    "keywords": [
+        "influencer community",
+        "private membership community",
+        "paid membership community",
+        "member portal",
+        "flarum",
+        "flarum-bundle",
+        "extiverse"
+    ],
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^v1.4.1",
+        "blomstra/payments": "*",
+        "sycho/flarum-private-facade": "*"
+    }
+}
